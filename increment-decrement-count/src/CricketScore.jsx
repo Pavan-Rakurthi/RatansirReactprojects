@@ -15,6 +15,7 @@ function CricketScore()
         <button onClick={()=>{setscore(score+4)}}>Four</button>
         <button onClick={()=>{setscore(score+6)}}>Six</button>
         <button onClick={()=>{wick<10 && setwick(wick+1)}}>Wicket</button>
+        <h2>This is second modification</h2>
 
 
         </>
