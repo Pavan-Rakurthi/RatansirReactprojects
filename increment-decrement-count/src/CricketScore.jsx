@@ -6,6 +6,7 @@ function CricketScore()
     const [wick,setwick] = useState(0);
     return(
         <>
+         <h1>This is modification file</h1>
         <h1>Cricket</h1>
         <h1>Match Score: IND ({score}/{wick})</h1>
         
